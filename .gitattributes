@@ -1,0 +1,3 @@
+*       text=auto
+*.i8080 text eol=crlf linguist-language=Assembly
+
